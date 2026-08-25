@@ -7,7 +7,7 @@ export function FounderCard({ founder }) {
     <Tilt
       glareEnable={true}
       glareMaxOpacity={0.2}
-      glareColor="#a955f796"
+      glareColor="#a955f7"
       glarePosition="all"
       tiltMaxAngleX={8}
       tiltMaxAngleY={8}
