@@ -32,9 +32,9 @@ export const employeePortfolios = {
     skills: ["Google Ads", "Facebook Ads", "LinkedIn Ads", "Campaign Managemen", "Audience Targeting & Segmentation", "Performance Marketing", "PPC (Pay-Per-Click) Advertising", "ROI & ROAS Optimization", "Excel / Google Sheets", "Data Reporting & Dashboarding", "Analytical Thinking", "Problem Solving", "Communication", "Time Management", "Data Analytics"]
   },
   7: {
-    bio: "Tanya Pathak is an SEO Associate with 1+ year of experience in improving website visibility and driving organic growth through effective search engine optimization strategies. She specializes in keyword research, on-page and off-page SEO, technical SEO, and performance analysis. With a detail-oriented and data-driven approach, she helps enhance search rankings and user engagement. Passionate about digital marketing, she continuously stays updated with the latest SEO trends and best practices.",
-    experience: "1+ Years",
-    skills: ["Keyword Research", "On-Page SEO", "Technical SEO", "Content Strategy", "Link Building", "Content Optimization", "Google Search Console", "Google Analytics (GA4)", "SEO Audits", "Google Keyword Planner", "Ahrefs/Semrush", "Performance Monitoring", "Microsoft Excel"]
+    bio: "Priyanshu Singh is a Full Stack Web Developer specializing in the MERN stack and building scalable, AI-powered web applications. He has developed projects like Analysis AI and a Dental Appointment Booking System, integrating JWT authentication, REST APIs, and modern AI models such as ChatGPT, Gemini, and Claude. Skilled in JavaScript, Java, React, Node.js, Express.js, MongoDB, MVC Architecture, JWT, bcrypt, and Multer, he focuses on creating secure and efficient solutions. Passionate about innovation, he continuously learns new technologies to deliver high-quality, real-world applications.",
+    experience: "5+ months",
+    skills: ["Java", "JavaScript", "HTML5", "CSS3", "React.js", "Tailwind CSS", "Node.js", "Express.js", "MongoDB", "Mongoose(Schema Design, Validation, Crud Operation)", "RESTful APIs", "JWT(Authentication,Authorization)", "MVC Architecture", "ChatGpt", "Claude", "Google Gemini", "VS Code", "Git", "GitHub", "Postman (API Testing)"]
   },
   8: {
     bio: "Sumit Sharma is an Operational Associate dedicated to ensuring smooth day-to-day business operations and process efficiency. He specializes in operational coordination, workflow management, data handling, and cross-functional collaboration. With a proactive approach and strong attention to detail, he helps streamline processes and improve productivity. Passionate about delivering operational excellence, he continuously works toward enhancing efficiency and organizational success.",
@@ -52,8 +52,18 @@ export const employeePortfolios = {
     skills: ["Adobe Premiere Pro", "Adobe After Effects", "DaVinci Resolve", "Final Cut Pro", "Motion Graphics", "Video Editing", "Color Grading", "Color Correction", "Audio Editing", "Sound Design", "Visual Effects (VFX)", "YouTube Video Editing"]
   },
   11: {
-    bio: "Priyanshu Singh is a Full Stack Web Developer specializing in the MERN stack and building scalable, AI-powered web applications. He has developed projects like Analysis AI and a Dental Appointment Booking System, integrating JWT authentication, REST APIs, and modern AI models such as ChatGPT, Gemini, and Claude. Skilled in JavaScript, Java, React, Node.js, Express.js, MongoDB, MVC Architecture, JWT, bcrypt, and Multer, he focuses on creating secure and efficient solutions. Passionate about innovation, he continuously learns new technologies to deliver high-quality, real-world applications.",
-    experience: "5+ months",
-    skills: ["Java", "JavaScript", "HTML5", "CSS3", "React.js", "Tailwind CSS", "Node.js", "Express.js", "MongoDB", "Mongoose(Schema Design, Validation, Crud Operation)", "RESTful APIs", "JWT(Authentication,Authorization)", "MVC Architecture", "ChatGpt", "Claude", "Google Gemini", "VS Code", "Git", "GitHub", "Postman (API Testing)"]
+    bio: "Akshit Chaudhary is a motivated Software Engineer fresher with a strong foundation in Java and web development. Passionate about building scalable applications and continuously learning new technologies.",
+    experience: "Fresher",
+    skills: ["JavaScript", "TypeScript", "MongoDB", "MySQL", "PostgreSQL", "HTML5", "CSS3", "Tailwind CSS",  "Vite", "Git/Github"]
+  },
+  12: {
+    bio: "Priya Singh is a motivated Android Developer fresher with a strong foundation in Java and web development. Passionate about building scalable applications and continuously learning new technologies.",
+    experience: "Fresher",
+    skills: ["JavaScript", "TypeScript", "Node.js", "Express.js", "MongoDB", "MySQL", "PostgreSQL", "HTML5", "CSS3", "Tailwind CSS",  "Vite", "Git/Github"]
+  },
+  13: {
+    bio: "Isha Vats is a passionate technology enthusiast with a strong foundation in Java, JavaScript, SQL, and web development. She has experience working with technologies including React, Node.js, Express.js, Spring Boot, HTML, CSS, and MySQL, along with REST APIs and Postman. She has a keen interest in learning new technologies, solving technical problems, and building practical applications. She is committed to continuously expanding her skills and gaining hands-on experience through real-world projects.",
+    experience: "Fresher",
+    skills: ["Java", "Spring Boot/ Hibernate", "MySQL", "HTML/ CSS", "Bootstrap", "React", "Angular" ,"Node.js", "Express.js", "REST APIs", "Postman", "Git/ Github"] 
   }
 };
