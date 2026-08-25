@@ -57,7 +57,7 @@ export const employeePortfolios = {
     skills: ["JavaScript", "MongoDB", "MySQL", "PostgreSQL", "HTML5", "CSS3", "Tailwind CSS",  "Vite", "Git/Github"]
   },
   12: {
-    bio: "Priya Singh is a motivated Android Developer fresher with a strong foundation in Java and web development. Passionate about building scalable applications and continuously learning new technologies.",
+    bio: "Priya Singh is a motivated Android Developer fresher with a strong foundation in Kotlin. Passionate about building scalable applications and continuously learning new technologies.",
     experience: "Fresher",
     skills: ["XML", "Kotlin", "Firebase", "Coroutine", "Retrofit", "RestAPI", "MVVM", "Git"]
   },
