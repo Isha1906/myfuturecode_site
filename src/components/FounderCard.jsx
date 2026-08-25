@@ -15,7 +15,7 @@ export function FounderCard({ founder }) {
       scale={1.02}
       transitionSpeed={1000}
       gyroscope={false}
-      className="w-full max-w-2xl mx-auto rounded-3xl"
+      className="w-full max-w-2xl mx-auto rounded-3xl h-full"
     >
       <div className="flex flex-col md:flex-row bg-[#0B0F19] border border-slate-800/60 rounded-3xl overflow-hidden shadow-2xl w-full h-full transition-all duration-300 hover:border-purple-500/30 hover:shadow-[0_15px_40px_rgba(168,85,247,0.3)]">
 
