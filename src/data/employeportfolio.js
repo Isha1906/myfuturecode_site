@@ -62,7 +62,7 @@ export const employeePortfolios = {
     skills: ["XML", "Kotlin", "Firebase", "Coroutine", "Retrofit", "RestAPI", "MVVM", "Git"]
   },
   13: {
-    bio: "Isha Vats is a passionate technology enthusiast with a strong foundation in Java, JavaScript, SQL, and web development. She has experience working with technologies including React, Node.js, Express.js, Spring Boot, HTML, CSS, and MySQL, along with REST APIs and Postman. She has a keen interest in learning new technologies, solving technical problems, and building practical applications. She is committed to continuously expanding her skills and gaining hands-on experience through real-world projects.",
+    bio: "Isha Vats is a passionate technology enthusiast with a strong foundation in Java, JavaScript, SQL, and web development. She has experience working with technologies including Spring Boot, HTML, CSS, TailwindCSS and MySQL, along with REST APIs and Postman. She has a keen interest in learning new technologies, solving technical problems, and building practical applications. She is committed to continuously expanding her skills and gaining hands-on experience through real-world projects.",
     experience: "Fresher",
     skills: ["Java", "Spring Boot/ Hibernate", "MySQL", "HTML/ CSS", "Bootstrap", "TailwindCSS", "React", "Angular" ,"Node.js", "REST APIs", "Postman", "Git/ Github"] 
   }
