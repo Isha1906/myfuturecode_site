@@ -83,7 +83,7 @@ export function AboutSection() {
                 </p>
               </div>
 
-
+ 
               <div className="about-col lg:px-8 flex flex-col items-center text-center" style={{ transform: 'translateZ(30px)' }}>
                 <div className="w-14 h-14 rounded-full flex items-center justify-center mb-4 text-emerald-400 bg-emerald-400/10 shadow-[0_0_15px_rgba(52,211,153,0.3)]">
                   <FaGem size={26} />
