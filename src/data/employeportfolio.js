@@ -57,11 +57,6 @@ export const employeePortfolios = {
     skills: ["JavaScript", "MongoDB", "MySQL", "PostgreSQL", "HTML5", "CSS3", "Tailwind CSS",  "Vite", "Git/Github"]
   },
   12: {
-    bio: "Priya Singh is a motivated Android Developer fresher with a strong foundation in Kotlin. Passionate about building scalable applications and continuously learning new technologies.",
-    experience: "Fresher",
-    skills: ["XML", "Kotlin", "Firebase", "Coroutine", "Retrofit", "RestAPI", "MVVM", "Git"]
-  },
-  13: {
     bio: "Isha Vats is a passionate technology enthusiast with a strong foundation in Java, JavaScript, SQL, and web development. She has experience working with technologies including Spring Boot, HTML, CSS, TailwindCSS and MySQL, along with REST APIs and Postman. She has a keen interest in learning new technologies, solving technical problems, and building practical applications. She is committed to continuously expanding her skills and gaining hands-on experience through real-world projects.",
     experience: "Fresher",
     skills: ["Java", "Spring Boot/ Hibernate", "MySQL", "HTML/ CSS", "Bootstrap", "TailwindCSS", "React", "Node.js", "REST APIs", "Postman", "Git/ Github"] 

@@ -10,7 +10,6 @@ import e9 from '../assets/employe/e9.webp'
 import e10 from '../assets/employe/e10.webp'
 import e11 from '../assets/employe/e11.webp'
 import e12 from '../assets/employe/e12.webp'
-import e13 from '../assets/employe/e13.webp'
 import e14 from '../assets/employe/e14.webp'
 
 export const employees = [
@@ -25,6 +24,5 @@ export const employees = [
   { id: 9, name: "Deepak Sharma", role: "Operational Associate", photo: e9 },
   { id: 10, name: "Bhairo Singh", role: "Video Editor", photo: e10 },
   { id: 11, name: "Akshit Chaudhary", role: "Web Developer Intern", photo: e12 },
-  { id: 12, name: "Priya Singh", role: "Android Developer Intern", photo: e13 },
-  { id: 13, name: "Isha Vats", role: "Web Developer Intern", photo: e14 }
+  { id: 12, name: "Isha Vats", role: "Web Developer Intern", photo: e14 }
 ];
